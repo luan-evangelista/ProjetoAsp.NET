@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/luan/Asp.Net/src/FilmesCRUDRazor/Pages/Contact.cshtml",
+      "TargetPath": "Pages\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/luan/Asp.Net/src/FilmesCRUDRazor/Pages/Filmes/Create.cshtml",
       "TargetPath": "Pages\\Filmes\\Create.cshtml",
       "FileKind": "mvc"
@@ -15656,11 +15661,6 @@
     {
       "FilePath": "/home/luan/Asp.Net/src/FilmesCRUDRazor/Pages/Filmes/Index.cshtml",
       "TargetPath": "Pages\\Filmes\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/luan/Asp.Net/src/FilmesCRUDRazor/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {

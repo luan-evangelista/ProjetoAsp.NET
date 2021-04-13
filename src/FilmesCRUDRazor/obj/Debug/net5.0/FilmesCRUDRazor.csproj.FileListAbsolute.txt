@@ -25,7 +25,6 @@
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/FilmesCRUDRazor.RazorCoreGenerate.cache
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
-/home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
@@ -170,3 +169,4 @@
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Filmes/Details.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Filmes/Edit.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Filmes/Index.cshtml.g.cs
+/home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Contact.cshtml.g.cs
