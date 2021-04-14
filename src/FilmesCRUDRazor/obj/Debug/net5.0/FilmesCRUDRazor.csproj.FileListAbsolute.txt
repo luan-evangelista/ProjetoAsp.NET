@@ -170,3 +170,4 @@
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Filmes/Edit.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Filmes/Index.cshtml.g.cs
 /home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Contact.cshtml.g.cs
+/home/luan/Asp.Net/src/FilmesCRUDRazor/obj/Debug/net5.0/Razor/Pages/Sobre.cshtml.g.cs

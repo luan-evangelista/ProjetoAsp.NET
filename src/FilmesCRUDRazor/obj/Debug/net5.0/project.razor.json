@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/luan/Asp.Net/src/FilmesCRUDRazor/Pages/Sobre.cshtml",
+      "TargetPath": "Pages\\Sobre.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/luan/Asp.Net/src/FilmesCRUDRazor/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
